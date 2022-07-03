@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @kaksfrankie
-- 👀 I’m interested in programming, webdevelopmemnt and abit of forex trading
-- 🌱 I’m currently learning html,css and java script
-- 💞️ I’m looking to collaborate on web designs 
-- 📫 How to reach me ...
-
-<!---
-kaksfrankie/kaksfrankie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kaksfrank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kakooza-francis-ssemanda-488276157/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/importerkaks/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
